@@ -56,7 +56,7 @@ export default function Home() {
             <SectionTitle>About</SectionTitle>
             <SectionContent>
               <p>
-                I am a web front-end development specialist with over 5 years of
+                I am a web front-end development specialist with over 6 years of
                 experience. My goal is to build high-quality web applications
                 that have a positive impact on the world, using modern tools and
                 adhering to the best practices in usability and programming.
